@@ -1,7 +1,16 @@
 # AI-Prompt-Evaluation
 Qualitative analysis and evaluation of large language model outputs, focusing on coherence, reliability, and responsible AI use.
 
-This repository contains examples of qualitative analysis and evaluation of large language model (LLM) outputs.
+This repository houses a collection of formal conceptual specifications (“F-units”) used to document and reason about structured reasoning systems. Each unit defines a distinct functional role in a broader architecture.
+
+ai-prompt-evaluation/
+├── conceptual_models/
+│   ├── F14_output_validation.md
+│   ├── F99_compression.md
+├── examples/
+│   └── example_01.md
+├── README.md
+
 
 The focus of this work is on assessing:
 - coherence and internal consistency of generated content  
