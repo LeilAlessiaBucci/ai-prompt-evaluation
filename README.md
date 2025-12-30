@@ -26,4 +26,4 @@ All content is created for research, evaluation, and educational purposes.
 
 ## Disclaimer
 
-All examples are illustrative and do not include proprietary, confidential, or personal data.
+This repository contains examples of qualitative analysis curated and reviewed by the author as part of ongoing work on AI evaluation.
