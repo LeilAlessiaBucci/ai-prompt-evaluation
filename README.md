@@ -1,4 +1,4 @@
-# ai-prompt-evaluation
+# AI-Prompt-Evaluation
 Qualitative analysis and evaluation of large language model outputs, focusing on coherence, reliability, and responsible AI use.
 
 This repository contains examples of qualitative analysis and evaluation of large language model (LLM) outputs.
